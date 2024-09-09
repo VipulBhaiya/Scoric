@@ -1,0 +1,2 @@
+# Scoric
+for school 
